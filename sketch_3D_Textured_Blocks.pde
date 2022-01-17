@@ -21,7 +21,7 @@ void draw()
   background(255);
   
   texturedCube(width/2, height/2,  0, netherite, 200);
-  texturedCube(100,100,100,dirt,100);
+  texturedCube(300,600,100,dirt,100);
   texturedCube(600,600,100,topGrass, sideGrass, dirt, 150);
 }
 
